@@ -1,0 +1,9 @@
+# Core dependencies
+tensorflow==2.13.0
+protobuf==4.21.0
+
+# Development dependencies
+pytest>=7.0
+black>=22.0
+flake8>=4.0
+mypy>=0.900
